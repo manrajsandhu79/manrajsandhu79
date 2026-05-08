@@ -81,3 +81,5 @@ My work sits at the intersection of:
 
 ```txt
 Discovery → Architecture → Build → Review → Ship → Maintain
+
+<div align="center"> <a href="https://www.linkedin.com/in/manraj-sandhu-webants/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://www.upwork.com/freelancers/manrajsandhu"> <img src="https://img.shields.io/badge/Upwork-Hire_Me-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /> </a> </div>
