@@ -48,3 +48,30 @@ My work sits at the intersection of **WordPress architecture**, **custom applica
 ---
 
 ## How I work
+
+Discovery ──► Architecture ──► Build ──► Review ──► Ship ──► Maintain
+
+
+**I ask questions before writing a single line.** Scope creep, rework, and fragile code almost always trace back to skipping this step.
+
+---
+
+## What I focus on
+
+| Area | Specifics |
+|---|---|
+| **Custom Theme Development** | Built from scratch — no page builder bloat |
+| **Plugin Architecture** | OOP, PSR-4 autoloading, clean hooks |
+| **Gutenberg Blocks** | Dynamic blocks with React + REST endpoints |
+| **Performance Optimisation** | Core Web Vitals, TTFB, caching strategy |
+
+---
+
+## Let's connect
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manraj-sandhu-webants/)
+[![Upwork](https://img.shields.io/badge/Hire_on_Upwork-6FDA44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/manrajsandhu)
+
+<div align="center">
+<sub>Built with intent. Maintained with care.</sub>
+</div>
