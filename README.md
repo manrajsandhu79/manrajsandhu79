@@ -1,8 +1,3 @@
-Here is your complete, fixed code. I have replaced the emoji in the link (which often causes the "broken" look), removed invisible "bad" spaces, and added a special code to each link to force GitHub to show the fresh images.
-
-Copy and paste this entire block into your GitHub **README.md**:
-
-```markdown
 <div align="center">
 
 
@@ -139,5 +134,3 @@ If you're working on something interesting — a complex WordPress build, a perf
 <div align="center">
 <sub>Built with intent. Maintained with care.</sub>
 </div>
-
-```
